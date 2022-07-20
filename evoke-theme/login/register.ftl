@@ -20,7 +20,6 @@
                     </#if>
                 </div>
             </div>
-
             <div class="${properties.kcFormGroupClass!}">
                 <div class="${properties.kcLabelWrapperClass!}">
                     <label for="lastName" class="${properties.kcLabelClass!}">${msg("lastName")}</label>
