@@ -26,18 +26,14 @@
 }
 
 .pf-c-form__label-text{
-    color: #498EB3;
+    color: #0088ce;
 }
 
 .pf-c-form-control{
     border-radius: 20px;
-    padding: 22px 30px;
-    height: auto;
+    border-width: 2px;
+    border-color: #d6dde2;
     font-size: medium;
-}
-
-textarea.pf-c-form-control {
-	height: auto;
 }
 
 .pf-c-form-control:hover{
@@ -49,7 +45,6 @@ textarea.pf-c-form-control {
     outline: 0px solid transparent;
     border-radius: 20px;
     border-bottom-width: 3px;
-    padding: 22px 30px;
     font-size: medium;
 }
 
@@ -182,7 +177,7 @@ h1#kc-page-title {
 }
 
 #kc-a-forgot{
-    color: #498EB3;
+    color: #0088ce;
 }
 
 #kc-locale ul {
@@ -203,7 +198,8 @@ h1#kc-page-title {
 }
 
 #kc-locale-dropdown a {
-    color: #498EB3;
+    color: #0088ce;
+    font-weight: bold;
     text-align: right;
     font-size: 14px;
 }
